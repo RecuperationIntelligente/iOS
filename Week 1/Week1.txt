@@ -13,18 +13,13 @@ struct ContentView: View {
     let studentID = "SESEIU24013"
     var body: some View {
         ZStack{
-            Color.pink
-            
-            VStack (spacing: 67){
-                
+            Color.pink           
+            VStack (spacing: 67){          
                 Image(systemName: "globe")
                 Text("Hello, Swift👋").font(.largeTitle).bold(true)
-                Text("my name is \(name)").font(.title2)
-                Text("my age is \(age)").font(.title3)
-                Text("my studentID is \(studentID)").font(.title3)
-                Image("Image 1")
-                    .imageScale(.small)
-                    .foregroundStyle(.tint)
+                Text("my name is \(name)")
+                Text("my age is \(age)")
+                Text("my studentID is \(studentID)")
                 Image(systemName: "heart")
                 let heart = "❤️"
                 Text("\(heart)") 
