@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTExL3Jhd3BpeGVsX29mZmljZV8yNl9pbGx1c3RyYXRpb25fY2xlYW5fbWlkbmlnaHRfc2t5X2xhbmRzY2FwZV85MF9kNWUyOTcyNS0xZGQzLTRjMzQtOWUyYS03ZDgzYmI4MWZhYzVfMi5qcGc.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTExL3Jhd3BpeGVsX29mZmljZV8yNl9pbGx1c3RyYXRpb25fY2xlYW5fbWlkbmlnaHRfc2t5X2xhbmRzY2FwZV85MF9kNWUyOTcyNS0xZGQzLTRjMzQtOWUyYS03ZDgzYmI4MWZhYzVfMi5qcGc 1.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTExL3Jhd3BpeGVsX29mZmljZV8yNl9pbGx1c3RyYXRpb25fY2xlYW5fbWlkbmlnaHRfc2t5X2xhbmRzY2FwZV85MF9kNWUyOTcyNS0xZGQzLTRjMzQtOWUyYS03ZDgzYmI4MWZhYzVfMi5qcGc 2.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
